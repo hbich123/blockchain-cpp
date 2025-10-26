@@ -216,7 +216,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍🎓 Academic Context
 
-This project was developed as part of the Master IASD (Intelligence Artificielle et Science des Données) program at [Your University], under the supervision of Pr. Ikram BENABDELOUAHAB.
+This project was developed as part of the Master IASD (Intelligence Artificielle et Science des Données) program at uae fstt, under the supervision of Pr. Ikram BENABDELOUAHAB.
 
 **Course**: Blockchain Technology  
 **Year**: 2025/2026  
